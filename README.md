@@ -8,7 +8,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
  
  - AWS S3 Bucket Storage
  - AWS Database Authetication
- - Integrate Cognito Authetication into .NET Core App
+ - Integrate Cognito Authetication into .NET Core App with NetCorePool id and App Client id
+  <img src="https://github.com/kscheung029/ImageAsset/blob/master/Picture4.jpg">
  - AWS SDK Connection
  - Email verification 
  - Login and Logout Functionality with React native
