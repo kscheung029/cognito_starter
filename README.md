@@ -1,5 +1,29 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Technologies:
+ - AWS Cognito Service
+ - AWS S3 Bucket Storage
+ - AWS Database Authetication
+ - Integrate Cognito Authetication into .NET Core App
+ - AWS SDK Connection
+ - Email verification 
+ 
+ - Login and Logout Functionality with React native
+## Project goals:
+
+ - Uses Cognito Identity Service for user registration and authentication.
+ - When a user is authenticated, they can view an “Items” page, this can be any form of item that can be stored in a database (Products, Blog Entry, Projects, etc).
+ - If the user is not authenticated...this page and its relevant links should not be accessible.
+ - Items must be pulled using a Lambda Function from an AWS datastore of your choosing.
+ - Items must include at least one image.
+ - Images should be stored in an AWS S3 bucket and only the URL saved to the database.
+ 
+## Application Page Flow
+ - Registration with email confirmation
+ - Login and Logout
+ - Item List
+ - Item Detail
+ 
 ## Available Scripts
 
 In the project directory, you can run:
