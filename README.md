@@ -9,10 +9,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
  - Email verification 
  
  - Login and Logout Functionality with React native
+ <img src="https://github.com/kscheung029/cognito_starter/blob/master/src/logo.svg" width="100" height="100">
+ 
 ## Project goals:
 
  - Uses Cognito Identity Service for user registration and authentication.
- - When a user is authenticated, they can view an “Items” page, this can be any form of item that can be stored in a database (Products, Blog Entry, Projects, etc).
+ - When a user is authenticated, they can view an “Items” page, this can be any form of item that can be stored in a database (In this project, blog entry images are the items).
  - If the user is not authenticated...this page and its relevant links should not be accessible.
  - Items must be pulled using a Lambda Function from an AWS datastore of your choosing.
  - Items must include at least one image.
