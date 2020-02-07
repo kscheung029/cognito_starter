@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
  <img src="https://github.com/kscheung029/ImageAsset/blob/master/Picture1.jpg">
  <br></br>
  <img src="https://github.com/kscheung029/ImageAsset/blob/master/Picture2.jpg">
- - AWS S3 Bucket Storage
+ - AWS S3 Bucket Storage</br>
  - AWS Database Authetication to store User Account information including username,password,email,etc. 
    </br>Account Register Interface:</br>
    <img src="https://github.com/kscheung029/ImageAsset/blob/master/Picture3.jpg">
