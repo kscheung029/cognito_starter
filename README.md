@@ -2,6 +2,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Technologies:
  - AWS Cognito Service
+ 
+
+  
+ <img src="https://github.com/kscheung029/ImageAsset/blob/master/Picture1.jpg">
+ </br>
+ <img src="https://github.com/kscheung029/ImageAsset/blob/master/Picture2.jpg">
  - AWS S3 Bucket Storage
  - AWS Database Authetication
  - Integrate Cognito Authetication into .NET Core App
@@ -9,7 +15,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
  - Email verification 
  
  - Login and Logout Functionality with React native
- <img src="https://github.com/kscheung029/cognito_starter/blob/master/src/logo.svg" width="100" height="100">
+ <img src="https://github.com/kscheung029/cognito_starter/blob/master/src/logo.svg" width="100" height="100"></img>
+
  
 ## Project goals:
 
