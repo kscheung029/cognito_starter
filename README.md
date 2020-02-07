@@ -1,11 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). <img src="https://github.com/kscheung029/cognito_starter/blob/master/src/logo.svg" width="100" height="100">
 
-## Technologies:
+## Technologies includes:
  - AWS Cognito Service
  <img src="https://github.com/kscheung029/ImageAsset/blob/master/Picture1.jpg">
  <br></br>
  <img src="https://github.com/kscheung029/ImageAsset/blob/master/Picture2.jpg">
- 
  - AWS S3 Bucket Storage
  - AWS Database Authetication to store User Account information including username,password,email,etc. 
    </br>Account Register Interface:</br>
@@ -16,7 +15,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
  - Email verification 
    <img src="https://github.com/kscheung029/ImageAsset/blob/master/Picture5.jpg">
  - Login and Logout Functionality with React native
-
 
  
 ## Project goals:
